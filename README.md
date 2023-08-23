@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathan Cheung</h1>
 <h3 align="center">A backend developer from Hong Kong</h3>
 
-- 🔭 I’m currently working on [SRPG](https://github.com/Sing0916/Backend-Demo)
+- 🔭 I’m currently working on [SRPG](https://github.com/Sing0916/SingRPG-backend)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
